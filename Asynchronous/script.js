@@ -571,7 +571,7 @@ console.log('1: Will get location');
 // console.log('3: Finished getting location');
 
 // NOTE: Even through there was an error in the async, function the 
-// promise thet was retruns is still fulfilled. 
+// promise that was returns is still fulfilled. 
 
 (async function(){
   try{
